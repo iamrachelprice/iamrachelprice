@@ -8,18 +8,18 @@ currently searching for a full-time role within this industry. I enjoy creating 
 Data Analytics: I work with data to uncover hidden patterns, trends, and insights using tools like Python and SQL.\
 Machine Learning: I build and implement predictive models, working with algorithms like decision trees, regression models, and neural networks.\
 Data Visualization: I create compelling visualizations using tools like Matplotlib to help understand complex data.\
-Research & Projects: I apply data science methodologies to a variety of real-world projects.\
+Research & Projects: I apply data science methodologies to a variety of real-world projects.
 
 
 🌱 I’m currently learning ...\
 Deepening my understanding of advanced machine learning algorithms (e.g., XGBoost, Neural Networks).\
 Exploring AI in business applications like automation and optimization.\
-Working on a new classification project to strengthen my knowledge of machine learning techniques.\
+Working on a new classification project to strengthen my knowledge of machine learning techniques.
 
 
-I’m always eager to learn new techniques and apply them in real-world scenarios, and am always looking for new projects to collaborate on!\
+I’m always eager to learn new techniques and apply them in real-world scenarios, and am always looking for new projects to collaborate on!
 
 
-📫 How to Reach Me:\
-LinkedIn: www.linkedin.com/in/iamrachelprice/\
+📫 How to Reach Me:   \
+LinkedIn: www.linkedin.com/in/iamrachelprice/   \
 Email: iamrachelprice@gmail.com
