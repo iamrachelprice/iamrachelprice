@@ -16,5 +16,7 @@ Working on a new classification project to strengthen my knowledge of machine le
 I’m always eager to learn new techniques and apply them in real-world scenarios, and am always looking for new projects to collaborate on!
 
 📫 How to Reach Me:
+
 LinkedIn: www.linkedin.com/in/iamrachelprice/
+
 Email: iamrachelprice@gmail.com
